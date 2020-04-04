@@ -27,7 +27,7 @@ Donation
 ---
 BTC; `13djLCGVhc3EF86XPm5TTY73zUypiUSTG3`
 
-Code by,
+Method & Code by,
 ---
 * T13R/Ertuğrul TURAN
 * v4r1able
