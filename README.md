@@ -11,6 +11,11 @@ And include saldiri-koru.php your web site all file or only index.php;
 
 <h2>Testing firewall http://www.youtube.com/watch?v=0wSH9jhQyC4</h2>
 
+Compulsory
+---
+* Cloudflare add to your site (api)
+* Hcaptcha account (key+seckey)
+
 Features
 ---
 - [x] All Layer7 attacker block
