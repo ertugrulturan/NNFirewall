@@ -1,6 +1,6 @@
 NNFirewall - PHP Layer7 Firewall (Cloudflare + HCaptcha)
 =========
-[![Build status](https://ci.appveyor.com/api/projects/status/5857hfy6r1ltb5f2?svg=true)](https://ci.appveyor.com/project/MaxXor/quasarrat) [![Join the chat at https://gitter.im/quasar/QuasarRAT](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/quasar/QuasarRAT)
+
 Upload all files to the home directory (public_html),
 Register to https://cloudflare.com and https://hcaptcha.com key code + domain name edit(nnfconfig.php);
 //YoutWeb site domain (url) - Not: https://site.com/ Use: https://site.com
