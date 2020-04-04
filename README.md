@@ -13,10 +13,10 @@ And include saldiri-koru.php your web site all file or only index.php;
 
 Features
 ---
-* Layer7 attacker block
-* All flooder program/human block
-* HTTP/HTTPS shield
-* Cloudflare optemized
+- [x] Layer7 attacker block
+- [x] All flooder program/human block
+- [x] HTTP/HTTPS shield
+- [x] Cloudflare optemized
 
 Code by,
 ---
