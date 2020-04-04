@@ -18,6 +18,10 @@ Features
 - [x] HTTP/HTTPS shield
 - [x] Cloudflare optemized
 
+Donation
+---
+BTC; `13djLCGVhc3EF86XPm5TTY73zUypiUSTG3`
+
 Code by,
 ---
 * T13R/Ertuğrul TURAN
