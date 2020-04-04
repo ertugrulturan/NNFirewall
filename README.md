@@ -13,6 +13,7 @@ And include saldiri-koru.php your web site all file or only index.php;
 
 <h2>Features</h2>
 
-<h2>Code by,</h2> 
-*T13R/Ertuğrul TURAN
-*v4r1able
+Code by,
+---
+* T13R/Ertuğrul TURAN
+* v4r1able
