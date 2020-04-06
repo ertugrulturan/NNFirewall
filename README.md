@@ -9,7 +9,7 @@ And include saldiri-koru.php your web site all file or only index.php;
 
 > include("saldiri-koru.php");
 
-Testing firewall
+Testing firewall video
 ---
 [![Firewall Test Video Preview](http://img.youtube.com/vi/0wSH9jhQyC4/0.jpg)](http://www.youtube.com/watch?v=0wSH9jhQyC4)
 
@@ -29,7 +29,7 @@ Donation
 ---
 BTC; `13djLCGVhc3EF86XPm5TTY73zUypiUSTG3`
 
-Method & Code by,
+Method & Code
 ---
 * T13R/Ertuğrul TURAN
 * v4r1able
