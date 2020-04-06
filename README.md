@@ -11,7 +11,7 @@ And include saldiri-koru.php your web site all file or only index.php;
 
 Testing firewall video
 ---
-[![Firewall Test Video Preview](http://img.youtube.com/vi/0wSH9jhQyC4/0.jpg)](http://www.youtube.com/watch?v=0wSH9jhQyC4)
+[![Firewall Test Video Preview](https://1.bp.blogspot.com/-f_cC7-zXtPY/XoquA1u0HcI/AAAAAAAABCE/TQZYsYIVIUcvowgsywdhCZuRBxK_ypKjgCK4BGAsYHg/video-media-player-design_114579-839.jpg)](http://www.youtube.com/watch?v=0wSH9jhQyC4)
 
 Compulsory
 ---
